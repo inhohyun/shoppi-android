@@ -6,7 +6,3 @@ plugins {
 
 }
 
-ext{
-    navVersion = '2.5.3'
-
-}
